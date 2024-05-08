@@ -21182,7 +21182,7 @@ Displ,Cyl,Trans,Drive,Fuel,Veh Class,Air Pollution Score,Greenhouse Gas Score,Ye
 3.0,6.0,Man-6,2WD,Gasoline,small car,6,5,2011,19.0,28.0,22.0,BMW,135i Convertible
 3.0,6.0,SemiAuto-7,2WD,Gasoline,small car,5,4,2011,18.0,25.0,20.0,BMW,135i Convertible
 3.0,6.0,Man-6,2WD,Gasoline,small car,5,5,2011,19.0,28.0,22.0,BMW,135i Convertible
--1.0,Electricity,Other-1,2WD,Electricity,small car,10,10,2011,107.0,96.0,102.0,BMW,1-Series ActiveE
+Electric,Electricity,Other-1,2WD,Electricity,small car,10,10,2011,107.0,96.0,102.0,BMW,1-Series ActiveE
 3.0,6.0,Man-6,4WD,Gasoline,small car,8,4,2011,17.0,25.0,20.0,BMW,328Ci
 3.0,6.0,SemiAuto-6,4WD,Gasoline,small car,8,4,2011,17.0,26.0,20.0,BMW,328Ci
 3.0,6.0,Man-6,2WD,Gasoline,small car,8,5,2011,18.0,28.0,22.0,BMW,328Ci
@@ -22364,7 +22364,7 @@ Displ,Cyl,Trans,Drive,Fuel,Veh Class,Air Pollution Score,Greenhouse Gas Score,Ye
 1.6,4.0,Man-6,2WD,Gasoline,station wagon,5,6,2011,24.0,31.0,27.0,NISSAN,Juke
 1.6,4.0,Other-1,4WD,Gasoline,station wagon,5,6,2011,25.0,30.0,27.0,NISSAN,Juke
 1.6,4.0,Other-1,2WD,Gasoline,station wagon,5,7,2011,27.0,32.0,29.0,NISSAN,Juke
--1.0,Electricity,Auto-1,2WD,Electricity,midsize car,10,10,2011,106.0,92.0,99.0,NISSAN,Leaf
+Electric,Electricity,Auto-1,2WD,Electricity,midsize car,10,10,2011,106.0,92.0,99.0,NISSAN,Leaf
 3.5,6.0,Other-1,2WD,Gasoline,midsize car,6,5,2011,19.0,26.0,22.0,NISSAN,Maxima
 3.5,6.0,Other-1,2WD,Gasoline,midsize car,5,5,2011,19.0,26.0,22.0,NISSAN,Maxima
 3.5,6.0,Other-1,2WD,Gasoline,midsize car,5,5,2011,19.0,26.0,22.0,NISSAN,Maxima
@@ -22524,10 +22524,10 @@ Displ,Cyl,Trans,Drive,Fuel,Veh Class,Air Pollution Score,Greenhouse Gas Score,Ye
 1.8,4.0,Man-5,2WD,Gasoline,small car,5,7,2011,27.0,33.0,29.0,SCION,xD
 1.0,3.0,AutoMan-5,2WD,Gasoline,small car,6,8,2011,33.0,41.0,36.0,SMART,ForTwo Cabriolet
 1.0,3.0,AutoMan-5,2WD,Gasoline,small car,5,8,2011,33.0,41.0,36.0,SMART,ForTwo Cabriolet
--1.0,Electricity,Auto-1,2WD,Electricity,small car,10,10,2011,94.0,79.0,87.0,SMART,ForTwo Cabriolet
+Electric,Electricity,Auto-1,2WD,Electricity,small car,10,10,2011,94.0,79.0,87.0,SMART,ForTwo Cabriolet
 1.0,3.0,AutoMan-5,2WD,Gasoline,small car,6,8,2011,33.0,41.0,36.0,SMART,ForTwo Coupe
 1.0,3.0,AutoMan-5,2WD,Gasoline,small car,5,8,2011,33.0,41.0,36.0,SMART,ForTwo Coupe
--1.0,Electricity,Auto-1,2WD,Electricity,small car,10,10,2011,94.0,79.0,87.0,SMART,ForTwo Coupe
+Electric,Electricity,Auto-1,2WD,Electricity,small car,10,10,2011,94.0,79.0,87.0,SMART,ForTwo Coupe
 4.2,8.0,Auto-6,2WD,Gasoline,small car,5,2,2011,14.0,21.0,17.0,Spyker,C8 Aileron
 2.5,4.0,Man-5,4WD,Gasoline,SUV,9,5,2011,21.0,27.0,23.0,SUBARU,Forester
 2.5,4.0,Man-5,4WD,Gasoline,SUV,6,5,2011,21.0,27.0,23.0,SUBARU,Forester
