@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Time Series Forecasting of City MPG for Different Vehicle Segments</title>
+</head>
+<body>
+    <h2>Time Series Forecasting of City MPG for Different Vehicle Segments</h2>
+    <br> <!-- Line break added here -->
+
+    <form method="POST" action="/">
+        <label for="vehicle_type">Select Vehicle Type:</label>
+        <select id="vehicle_type" name="vehicle_type">
+            <option value="diesel">Diesel</option>
+            <option value="gasoline">Gasoline</option>
+        </select>
+        <input type="submit" value="Submit">
+    </form>
+
+    {% if image_path %}
+        <br> 
+        <img src="{{ image_path }}" alt="Forecast Image" style="width:900px; height:auto;">
+    {% endif %}
+
+</body>
+</html>
